@@ -1,0 +1,47 @@
+(10000100) base 2 to base 10
+(53) base 10 to base 2
+mult/div/mod have the same level of precedence
+python statements 
+computer/compiler/program
+
+check if input is odd or even number
+if num % 2 == 0
+    even
+else:
+    odd
+
+n = 0 
+while (n <= 1000)
+   print(n)
+   n = n+5
+
+num = [x in range(0, 100)]
+print(num)
+
+for num in range(0, 1000, 5) 5 is the number of steps
+    print(num)
+for num in range(start, end, steps)
+*
+**
+***
+****
+*****
+******
+*******
+for row in range(7):
+    for col in range(row+1):
+       print('*', end='')
+    print()
+
+the output:
+for i in range(3, 7, 2):
+    print(i)
+    for j in range(15, 3, -4):
+        print(i+1, j)
+    print(i-1)
+
+48 0
+24 1
+12 2
+6  3
+3 4

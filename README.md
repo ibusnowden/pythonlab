@@ -1,2 +1,0 @@
-# pythonlab
-Algorithms in python
